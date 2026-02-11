@@ -1,8 +1,7 @@
-DevOps Project - Dr. Kastro Kiran
+DevOps Project - Aniket Wakekar
 Deployment of ZOMATO Project
 --------------------------------------------
-Repo URL: https://github.com/KastroVKiran/DevOps-Project-Zomato-Kastro.git
-
+Repo URL: https://github.com/Wakekar/Zomato-Aniket.git
 
 1. Launch an Instance (Ubuntu, 24.04, t2.large, 30 GB)
 
@@ -18,7 +17,8 @@ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip
 unzip awscliv2.zip
 sudo ./aws/install
 
-5. Install Jenkins on Ubuntu
+5. Install Jenkins on Ubuntu          #########-----------( If not works then try to use jenkins.war)----------------------##########
+
 (Reference URL for commands: https://www.jenkins.io/doc/book/installing/linux/#debianubuntu)
 #!/bin/bash
 sudo apt update -y
@@ -714,6 +714,7 @@ Kind Request:
 Once after you have successfully deployed the App, kindly share your experience on LinkedIn by Tagging me and also provide the YouTube link of this project in your post, as it helps others to access the video quickly. 
 ========================================================================================================
 												HAPPY LEARNING
+
 
 
 
